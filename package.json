@@ -1,0 +1,29 @@
+{
+    "name": "react-trading-app",
+    "version": "1.0.0",
+    "description": "Trading app with React",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "React",
+        "Trade",
+        "Chart"
+    ],
+    "author": "Hari S",
+    "license": "ISC",
+    "dependencies": {
+        "parcel": "^2.8.3",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "ws": "^8.15.1"
+    },
+    "devDependencies": {
+        "@parcel/transformer-sass": "^2.8.3",
+        "buffer": "^5.7.1",
+        "process": "^0.11.10",
+        "stream-http": "^3.2.0",
+        "url": "^0.11.3"
+    }
+}
